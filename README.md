@@ -4,7 +4,8 @@ https://matlab.mathworks.com/open/github/v1?repo=Daphne838/Sistema-Cardiovascula
 
 ## Estudiantes
 
-Daphne Gamon Aviles; Juana Patricia Rivera Gonzalez; Maria Teresa Gomez Alemon 
+Daphne Gamon Aviles; Juana Patricia Rivera Gonzalez; Maria Teresa Gomez Alemon.
+
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: 21212156@tectijuana.edu.mx; juana.rivera193@tectijuana.edu.mx ;maria.gomeza17@tectijuana.edu.mx
 
 ## Asignaturas o departmento donde se puede usar la Actividad
