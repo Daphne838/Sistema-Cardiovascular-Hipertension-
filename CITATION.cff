@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Sistema Cardiovascular. Hipertension '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daphne
+    family-names: Gamon Aviles
+    email: l21212156@tectijuana.edu.mx
+    affiliation: Instituto Tecnologico de Tijuana
+  - given-names: Juana Patricia
+    family-names: 'Rivera Gonzalez '
+    email: juana.rivera193@tectijuana.edu.mx
+    affiliation: Instituto Tecnologico de Tijuana
+  - given-names: Maria Teresa
+    family-names: 'Gomez Alemon '
+    affiliation: Instituto Tecnologico de Tijuana
+    email: maria.gomeza17@tectijuana.edu.mx
