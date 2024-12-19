@@ -41,9 +41,8 @@ Este modelo eléctrico RLC es una herramienta útil para estudiar cómo las prop
 
 
 ## Referencias principales
-[1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
+[1] PHTLS: Soporte Vital en Trauma Prehospitalario, 10.ª edición, Jones & Bartlett Learning, 2024.
 
-[2] P. A. Valle, L. N. Coria, C. Plata & Y. Salazar, “CAR-T cell therapy for the treatment of ALL: eradication conditions and in silico experimentation,” Hemato, vol. 2, issue 3, pp. 441-462, Jul 2021. https://doi.org/10.3390/hemato2030028 
+[2] Gómez Pérez, K. C., & D’Alessandro Martínez, A., "Modelos de sistemas fisiológicos: Sistema cardiovascular", Revista de la Facultad de Ingeniería Universidad Central de Venezuela, vol. 21, no. 3, pp. 11-25, 2006.
 
-[3] MathWorks. (n.d.). Sistemas Dinámicos [Online]. Available: https://www.mathworks.com/discovery/dynamic-systems.html
-
+[3] Regazzoni, F., Salvador, M., Africa, P. C., Fedele, M., Dedè, L., & Quarteroni, A., "A cardiac electromechanics model coupled with a lumped parameters model for closed-loop blood circulation. Part I: model derivation", arXiv preprint arXiv:2011.15040, 2020. 
